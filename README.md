@@ -2,7 +2,7 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadullahpranto)](https://github.com/asadullahpranto/github-readme-stats)
-![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=radical)
+![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=merko)
 
 
 
