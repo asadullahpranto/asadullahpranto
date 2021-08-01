@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto)](https://github.com/asadullahpranto/github-readme-stats)
 ![asadullah](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahpranto&layout=compact&langs_count=7&theme=tokyonight)
 
 
