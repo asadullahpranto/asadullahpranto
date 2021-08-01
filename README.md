@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=asadullahpranto&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151514">
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadullahpranto)](https://github.com/asadullahpranto/github-readme-stats)
 ![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=radical)
 
