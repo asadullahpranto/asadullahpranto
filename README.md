@@ -2,7 +2,7 @@
 
 
 ![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahpranto&layout=tokyonight)](https://github.com/asadullahpranto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahpranto&layout=compact)](https://github.com/asadullahpranto/github-readme-stats)
 
 
 
