@@ -3,10 +3,10 @@
 <!-- ![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight) -->
 
 <a href="https://github.com/asadullahpranto/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asadullahpranto&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/asadullahpranto/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asadullahpranto&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahpranto&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
 
