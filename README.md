@@ -14,7 +14,7 @@
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="center"  class="icons-social" style="margin-left: 20px;">
         <a style="margin-left: 20px;" target="_blank" href="https://www.linkedin.com/in/asadullahpranto/">
 			<img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" height="30" width="30"></a>
         <a style="margin-left: 20px;" target="_blank" href="https://github.com/asadullahpranto">
