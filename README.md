@@ -15,9 +15,9 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/asadullahpranto/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/asadullahpranto">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/fluent/48/4a90e2/github.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/7385095/tooolazy?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
       </div>
