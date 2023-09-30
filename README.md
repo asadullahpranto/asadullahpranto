@@ -18,7 +18,7 @@
         <a style="margin-left: 20px;" target="_blank" href="https://www.linkedin.com/in/asadullahpranto/">
 			<img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" height="30" width="30"></a>
         <a style="margin-left: 20px;" target="_blank" href="https://github.com/asadullahpranto">
-		<img align="center" src="https://img.icons8.com/fluent/48/4a90e2/github.png" height="30" width="30"></a>
+		<img align="center" src="https://img.icons8.com/fluent/48/4a90e2/github.png" height="32" width="32"></a>
 		<a style="margin-left: 20px;" target="_blank" href="https://stackoverflow.com/users/7385095/tooolazy?tab=profile">
 				<img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" height="30" width="30"></a>
 	 <a style="margin-left: 20px;" href="https://leetcode.com/asadullahpranto/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadullahpranto" height="30" width="30" /></a>
