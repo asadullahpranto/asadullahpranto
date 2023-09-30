@@ -12,20 +12,13 @@
 
 <h3 align="center">Visit my profiles & connect</h3>
 <p align="center">
-	<a href="https://www.leetcode.com/i_rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_rony" height="30" width="40" /></a>
-	<a href="https://twitter.com/imran_r0ny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_r0ny" height="30" width="40" /></a>
-	<a href="https://linkedin.com/in/imran-rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-rony" height="30" width="40" /></a>
-	<a href="https://www.hackerrank.com/@morphin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@morphin" height="30" width="40" /></a>
-	<a href="https://codeforces.com/profile/dreamer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dreamer07" height="30" width="40" /></a>
+	<a href="https://leetcode.com/asadullahpranto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadullahpranto" height="30" width="40" /></a>
+	<a href="https://www.hackerrank.com/tooolazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toooLazy" height="30" width="40" /></a>
+	<a href="https://codeforces.com/profile/ToooLazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toooLazy" height="30" width="40" /></a>
 	<a href="https://stackoverflow.com/users/12136058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12136058" height="30" width="40" /></a>
-	<a href="https://fb.com/imran.rony.3591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran.rony.3591" height="30" width="40" /></a>
-	<a href="https://instagram.com/diary_of_imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diary_of_imran" height="30" width="40" /></a>
-	<a href="https://medium.com/@imranrony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imranrony" height="30" width="40" /></a>
-	<a href="https://www.youtube.com/c/imran rony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imran rony" height="30" width="40" /></a>
-	<a href="https://www.codechef.com/users/morphin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="morphin" height="30" width="40" /></a>
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">View my profiles and Connect🤝 </h3>
 
 <p align="center">
 
@@ -36,6 +29,10 @@
 		<img src="https://img.icons8.com/fluent/48/4a90e2/github.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/7385095/tooolazy?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	 <a href="https://leetcode.com/asadullahpranto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadullahpranto" height="30" width="40" /></a>
+	<a href="https://www.hackerrank.com/tooolazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toooLazy" height="30" width="40" /></a>
+	<a href="https://codeforces.com/profile/ToooLazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toooLazy" height="30" width="40" /></a>
+	<a href="https://stackoverflow.com/users/12136058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12136058" height="30" width="40" /></a>
       </div>
 </p>
 
