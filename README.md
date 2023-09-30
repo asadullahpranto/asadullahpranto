@@ -29,11 +29,9 @@
 		<img src="https://img.icons8.com/fluent/48/4a90e2/github.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/7385095/tooolazy?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	 <a href="https://leetcode.com/asadullahpranto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadullahpranto" height="30" width="40" /></a>
-	<a href="https://www.hackerrank.com/tooolazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toooLazy" height="30" width="40" /></a>
-	<a href="https://codeforces.com/profile/ToooLazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toooLazy" height="30" width="40" /></a>
-	<a href="https://stackoverflow.com/users/12136058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12136058" height="30" width="40" /></a>
-      </div>
+	 <a style="margin-left: 10px;" href="https://leetcode.com/asadullahpranto/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadullahpranto" height="30" width="40" /></a>
+	<a style="margin-left: 10px;" href="https://www.hackerrank.com/tooolazy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toooLazy" height="30" width="40" /></a>
+	<a style="margin-left: 10px;" href="https://codeforces.com/profile/ToooLazy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toooLazy" height="30" width="40" /></a>
 </p>
 
 
