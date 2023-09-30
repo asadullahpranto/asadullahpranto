@@ -22,7 +22,7 @@
 		<a style="margin-left: 20px;" target="_blank" href="https://stackoverflow.com/users/7385095/tooolazy?tab=profile">
 				<img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" height="30" width="30"></a>
 	 <a style="margin-left: 20px;" href="https://leetcode.com/asadullahpranto/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadullahpranto" height="30" width="30" /></a>
-	<a style="margin-left: 20px;" href="https://www.hackerrank.com/tooolazy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toooLazy" height="30" width="30" /></a>
+	<a style="margin-left: 20px;" href="https://www.hackerrank.com/tooolazy" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo"/> alt="toooLazy" height="30" width="30" /></a>
 	<a style="margin-left: 20px;" href="https://codeforces.com/profile/ToooLazy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toooLazy" height="30" width="30" /></a>
 </p>
 
