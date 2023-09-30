@@ -1,8 +1,7 @@
 
-<!-- ![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight) ![asadullah](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahpranto&layout=compact&langs_count=8&theme=tokyonight)
- ![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight) -->
 
- <p align="center"><a href="https://github.com/asadullahpranto"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Asadullah+Pranto%F0%9F%91%8B;A+passionate+iOS+Developer;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
+
+ <p align="center"><a href="https://github.com/asadullahpranto"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Asadullah+Pranto%F0%9F%91%8B;A+passionate+iOS+Developer+Tech+Enthusiast;Love Recharch and Development, Problem Solving, Critical Thinking, Multitasking, Teamwork, Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=asadullahpranto">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight&hide_border=false" />
