@@ -2,11 +2,27 @@
 <p align="center">
 	 <a href="https://github.com/asadullahpranto"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6500&pause=500&color=2AA889&center=true&vCenter=true&width=550&lines=Hi+There%2C+I'm+Asadullah+Pranto%F0%9F%91%8B;A+Passionate+iOS+Developer+and+Tech+Enthusiast;Love+Problem+Solving+and+Teamwork+and+more..." /></a>
  </p>
+
+<div>
+	<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+	<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+ - 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
+<h2></h2>
+</div>
  
  <p align="center">
   <a href="https://github.com/asadullahpranto/asadullahpranto">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asadullahpranto&show_icons=true&theme=tokyonight&hide_border=false" alt="Asadullah's GitHub Stats" />
-</a>  &nbsp;
+ </a>  &nbsp;
   <a href="https://github.com/asadullahpranto/asadullahpranto">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahpranto&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Asadullah's GitHub Stats" />
 </a>
