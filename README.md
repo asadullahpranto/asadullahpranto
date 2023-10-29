@@ -23,8 +23,11 @@
 <p align="center"> 
 	<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"> </a>
 	<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"> </a>
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> </a> 
+	<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://github.com/asadullahpranto/asadullahpranto/assets/22514450/ce801440-6672-47b6-852f-1db9d4e8c4f6" alt="xcode" width="45" height="45"> </a>
+	<a href="https://www.apple.com/app-store/" target="_blank" rel="noreferrer"> <img src="https://github.com/asadullahpranto/asadullahpranto/assets/22514450/e242f3ab-bcb7-43db-8687-1ffbc74b55c2" alt="appstore" width="38" height="38"> </a> 
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a>
+	<a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer"> <img src="https://github.com/asadullahpranto/asadullahpranto/assets/22514450/e9978aff-e244-4134-8d41-a25ecf1b9227" alt="google-analytics4" width="40" height="40"> </a>
+	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> </a> 
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a>  
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a> 
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a>   
