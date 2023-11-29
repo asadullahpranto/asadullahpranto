@@ -4,18 +4,18 @@
  </p>
 
 <div>
-	<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+	<h2> About Me</h2>
 	<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
- - 🔭 I’m currently working on  Soy Estudiante
+ - 🔭 I’m currently working on Gif Maker | iOS App
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 Currently learning Compositional Layout, Diffable Data Sources, Advanced Network Call
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate on iOS App Development
+
+- ⚡ 
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+- 💬 Hire me for your modern iOS App Development
 <h2></h2>
 </div>
  
@@ -50,7 +50,7 @@
 	
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Visit my profiles and Connect 🤝</h3>
+<h3 align="center" > Visit my profiles and Connect 🤝</h3>
 
 <p align="center">
 
