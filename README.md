@@ -1,21 +1,19 @@
 
 <p align="center">
-	 <a href="https://github.com/asadullahpranto"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6500&pause=500&color=2AA889&center=true&vCenter=true&width=550&lines=Hi+There%2C+I'm+Asadullah+Pranto%F0%9F%91%8B;A+Passionate+iOS+Developer+and+Tech+Enthusiast;Love+Problem+Solving+and+Teamwork+and+more..." /></a>
+	 <a href="https://github.com/asadullahpranto"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6500&pause=500&color=2AA889&center=true&vCenter=true&width=550&lines=Hi+There%2C+I'm+Asadullah+Pranto%F0%9F%91%8B;A+Passionate+iOS+Developer+and+Tech+Enthusiast;" /></a>
  </p>
 
 <div>
 	<h2> About Me</h2>
 	<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
- - 🔭 I’m currently working on Gif Maker | iOS App
+ - 🔭 Currently working on Gif Maker Project, an iOS App
   
-- 🌱 Currently learning Compositional Layout, Diffable Data Sources, Advanced Network Call
+- 🌱 Learning advanced topics like Advanced Network Call, Compositional Layout, Diffable Data Sources...
   
 - 👯 I’m looking to collaborate on iOS App Development
-
-- ⚡ 
   
-- 💬 Hire me for your modern iOS App Development
+- 💬 Hire me for your modern iOS App Development or Only UI Design
 <h2></h2>
 </div>
  
